@@ -2,10 +2,11 @@
 
 O Breakfast App é um aplicativo simples desenvolvido em Flutter como parte de um estudo pessoal. Ele é um projeto de aprendizado que explora diferentes aspectos do desenvolvimento de aplicativos móveis com Flutter.
 
-![Screen_Recording_20240201-1448441-ezgif com-video-to-gif-converter](https://github.com/joaoVictorBAlves/BreakfastApp/assets/86852231/b2d14ecd-b435-4468-8d26-5d64716ff801)
+<p align="center">
+  <img src="https://github.com/joaoVictorBAlves/BreakfastApp/assets/86852231/b2d14ecd-b435-4468-8d26-5d64716ff801" alt="Screen Recording" height="500">
+</p>
 
 ## Tutorial
-
 
 Este aplicativo foi construído seguindo o tutorial disponível em [link do tutorial](https://www.youtube.com/watch?v=D4nhaszNW4o&list=WL&index=2). O tutorial abrange diversos conceitos importantes do Flutter, incluindo:
 
